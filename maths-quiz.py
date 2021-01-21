@@ -2,7 +2,8 @@
 ########################################################################
 # Author : Greg Nimmo
 # Version : 1.0
-# Description : this is a mathamatics program for my daughters
+# Description : this is a mathamatics program for my daughters to test 
+# how they are going with match at school
 # negative numbers have been removed
 # this program will allow you to chose from the four main mathamatics operators
 # your session will be saved to a file to allow for review
